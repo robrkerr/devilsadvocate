@@ -6,7 +6,8 @@
   "dependencies": {
     "twitter": "~0.2.12",
     "request": "~2.46.0",
-    "rsvp": "~3.0.14"
+    "rsvp": "~3.0.14",
+    "unshortener": "~0.1.0"
   },
   "devDependencies": {},
   "scripts": {
