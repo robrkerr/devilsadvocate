@@ -4,7 +4,9 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "twitter": "~0.2.12"
+    "twitter": "~0.2.12",
+    "request": "~2.46.0",
+    "rsvp": "~3.0.14"
   },
   "devDependencies": {},
   "scripts": {
